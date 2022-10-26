@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// copied all the code from openzeppelin wizard.
 pragma solidity ^0.8.4;
 
 import "@openzeppelin/contracts-upgradeable/token/ERC1155/ERC1155Upgradeable.sol";
